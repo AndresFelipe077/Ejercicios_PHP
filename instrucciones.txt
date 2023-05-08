@@ -1,0 +1,4 @@
+nombre PHP
+<?php
+ echo "php.info";
+?>

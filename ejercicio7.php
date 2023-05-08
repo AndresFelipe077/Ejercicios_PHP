@@ -10,9 +10,14 @@
 
   define("NOMBRE", "OSCAR");
 
-  echo NOMBRE;
+  echo NOMBRE . "<br/>";
 
-  
+  phpinfo();
+
+  echo '<h1> Versión de PHP: </h1>' . phpversion();
+
+
+
 
 
 ?>
